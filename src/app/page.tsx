@@ -13,7 +13,7 @@ export default function Home() {
       <main className="min-h-screen flex flex-col items-center justify-center bg-gray-50 text-gray-900 px-4">
         {/* ... (kode hero section kamu biarkan sama) ... */}
         <h1 className="text-5xl font-bold mb-4 text-center mt-16">
-          Hi, I'm <span className="text-blue-600">Ahmad Riyadi</span>
+          I&apos;m<span className="text-blue-600">Ahmad Riyadi</span>
         </h1>
         <p className="text-xl text-gray-600 mb-8 text-center max-w-lg">
           Mahasiswa Teknik Informatika | Web, Network, & UI/UX Enthusiast
